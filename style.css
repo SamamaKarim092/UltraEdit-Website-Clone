@@ -156,7 +156,7 @@ span img {
 /* Third Section  */
 
 .third {
-    height: 80vh;
+    height: 108vh;
     background-color: #222222;
     color: white;
 }
@@ -169,6 +169,11 @@ span img {
 
 .third-contaner-text {
     color: white;
+}
+
+.third-container-text h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
 }
 
 .third-container .third-container-text {
@@ -188,6 +193,7 @@ span img {
     align-items: center;
     flex-direction: column;
     border-radius: 10px;
+    margin-left: 140px;
 }
 
 .third-container-box p {
@@ -219,11 +225,31 @@ span img {
   .button-01 {
     background-color: #00b6d1;
     color: white;
-    padding: 10px;
+    padding: 14px;
     padding-left: 100px;
     padding-right: 100px;
     font-size: 15px;
     font-weight: 600;
     margin-bottom: 30px;
+    border: none;
   }
 
+
+  .third-last-text {
+    margin-top: 20vh;
+    margin-left: 40vh;
+  }
+
+  .third-last-text h3 {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 0.5;
+  }
+
+
+  /* footer  */
+
+  footer {
+    height: 80vh;
+    background-color: white;
+  }
