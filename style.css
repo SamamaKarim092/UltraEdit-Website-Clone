@@ -294,3 +294,33 @@ input[type="email"] {
     margin-top: 10px;
     border: none;
 }
+
+
+.footer-logo img {
+    height: 55px;
+    margin-left: 18vw;
+    margin-top: 45px;
+}
+
+.foot-panel2 {
+    display:flex;
+}
+
+.footer-logo i {
+    font-size: 25px; /* Increase size */
+    color: black;    /* Change color */
+    margin-left: 10px;
+}
+
+.footer-many-logo {
+    margin-left: 42vw;
+}
+
+.final-words {
+    padding-left: 18vw;
+    font-size: 12px;
+    margin-top: 9px;
+}
+
+
+
